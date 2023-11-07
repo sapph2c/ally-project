@@ -64,11 +64,9 @@ In order to talk about issues facing trans women, it's import to have a shared c
 ##  :pencil: Education <a name = "education"></a>
 
 ### :book: Books <a name = "books"></a>
-- *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity* by Julia Serano
+- *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity* by Julia Serano. ***The*** foundational text for modern trans women. Julia Serano discusses at length transmysogyny (a term she coined) and how rigid views of sex and gender harm us all. A mandatory reading for anyone wishing to become an ally for trans women. 
 
 ### :tv: Videos <a name = "videos"></a>
 - [*Gender Critical*](https://www.youtube.com/watch?v=1pTPuoGjQsI&t=7s) by Natalie Wynn. This essay deconstructs gender critical (GC) arguments while answering lay persons questions about trans femme identity. It exposes the transphobia inherent to gender critical viewpoints while also giving excellent counterpoints for allies to use when facing GC arguments.
 
-- [*Transtrenders*](https://www.youtube.com/watch?v=EdvM_pRfuFM&t=2s) by Natalie Wynn
-- [*The Hunger*](https://www.youtube.com/watch?v=RTRT794IQBg) by Natalie Wynn
-- [*Incels*](https://www.youtube.com/watch?v=fD2briZ6fB0) by Natalie Wynn
+- [*Incels*](https://www.youtube.com/watch?v=fD2briZ6fB0) by Natalie Wynn. Incels gives a broad overview of involuntary celibate culture and body dysmorphia, before connecting it to the experiences of trans women early on in their transition. It gives insight into internalized transphobia that trans women experience, as well as the harmful language used by trans women against each other.
