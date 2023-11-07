@@ -35,7 +35,7 @@ What is an **ally**? Roxane Gay answers this question in the article, *On Making
 > their race or ethnicity, gender, sexuality, ability, class, religion, or other marker of identity.
 > We need people to use common sense to figure out how to participate in social justice. - Roxane Gay
 
-This project serves as a guide to those wishing to become an ally to trans woman.
+This project serves as a guide to those wishing to become an ally to trans women.
 
 ## :speech_balloon: Dictionary <a name = "dictionary"></a>
 
@@ -53,7 +53,11 @@ In order to talk about issues facing trans women, it's import to have a shared c
 
 ## :ledger: Rules <a name = "rules"></a>
 
-> Disclaimer: These are my own personal opinions on trans femme allyship, take it with a grain of salt, I am not the voice of the entire transgender community.
+> Disclaimer: These are my own personal opinions on allyship for trans women, take it with a grain of salt, I am not the voice of the entire transgender community.
+
+1. Respect people's preferred names and pronouns. This means advocating for people to use a trans woman's preferred name and pronouns when they deadname or misgender them.
+2. Understand that trans women lay at the intersection between female and trans identities and experience both mysogyny and transphobia. Interrogate your relationship with mysogyny so as not to perpetuate harmful behaviors towards trans women.
+3. Stay up to date with terms. Much of the language used now by trans women is very different than those who were born in the past century. Terms like transvestite are now considered derogatory and would likely offend most trans people. This will likely hold true as time progresses, so continuing your education on trans issues is critical to becoming a good ally.
 
 ##  :pencil: Education <a name = "education"></a>
 
