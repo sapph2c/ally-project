@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://outrightinternational.org/sites/default/files/styles/coh_x_large/public/2023-09/Trans_Flag.png?itok=GcWnDKhR" alt="Project logo"></a>
+ <img width=1360px height=898px src="https://outrightinternational.org/sites/default/files/styles/coh_x_large/public/2023-09/Trans_Flag.png?itok=GcWnDKhR" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Transfem Ally Project</h3>
