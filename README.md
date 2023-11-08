@@ -51,7 +51,6 @@ In order to talk about issues facing trans women, it's import to have a shared c
 | Transmysogyny | The intersection of transphobia and misogyny as experienced by trans women and transfeminine people. |
 | Intersectionality | The complex, cumulative way in which the effects of multiple forms of discrimination (such as racism, sexism, and classism) combine, overlap, or intersect especially in the experiences of marginalized individuals or groups. |
 | Gender Critical | Feminists who believe that sex is biological and immutable, while believing gender, including both gender identity and gender roles, is inherently oppressive. They reject the concept of transgender identities. |
-| Transsexual | 
 
 ## :ledger: Rules <a name = "rules"></a>
 
